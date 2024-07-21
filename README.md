@@ -57,6 +57,8 @@
 <p>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoeluf&show_icons=true&locale=en&layout=compact&langs_count=50&theme=merko" alt="leoeluf" width="350" height="250"/> 
+  </div>
+  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoeluf&theme=merko" alt="leoeluf" width="400"/>
   </div>
 </p>
